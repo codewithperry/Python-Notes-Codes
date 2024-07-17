@@ -13,6 +13,9 @@ Natural_Number_Add(a)
 3+2+1
 4
 4+3+2+1
+
+sum(n) = 1 + 2 + 3 + 4...n
+sum(n) = 1 + 2 + 3 + 4...(n-1) + n
 '''
 def sum(number_of_natural_number):
     if number_of_natural_number==0:
