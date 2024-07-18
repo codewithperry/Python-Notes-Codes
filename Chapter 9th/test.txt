@@ -1,0 +1,3 @@
+This is the text inside test.txt
+
+Read can even read spaces damn
