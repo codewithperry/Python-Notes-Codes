@@ -1,6 +1,6 @@
 class getInfo:
     name = "Samy"
-    salary = 1000000000000000000000000 * 12
+    salary = 100000 * 12
     location = "India"
 
     def india(self):
